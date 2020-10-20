@@ -3,9 +3,6 @@ public class Employee {
     private String lastName;
     private double salary;
 
-    public Employee() {
-    }
-
     public String getFirstName() {
         return firstName;
     }
